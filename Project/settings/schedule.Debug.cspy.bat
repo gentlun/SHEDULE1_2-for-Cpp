@@ -25,7 +25,7 @@ if not "%1" == "" goto debugFile
 
 @echo on 
 
-"C:\IAR_for_ARM\common\bin\cspybat" -f "D:\Gentlun\OLD_DSN\SHEDULE1_2 for Cpp\Project\settings\schedule.Debug.general.xcl" --backend -f "D:\Gentlun\OLD_DSN\SHEDULE1_2 for Cpp\Project\settings\schedule.Debug.driver.xcl" 
+"C:\IAR_for_ARM\common\bin\cspybat" -f "D:\Gentlun\OLD_DSN\SHEDULE1_2-for-Cpp\Project\settings\schedule.Debug.general.xcl" --backend -f "D:\Gentlun\OLD_DSN\SHEDULE1_2-for-Cpp\Project\settings\schedule.Debug.driver.xcl" 
 
 @echo off 
 goto end 
@@ -34,7 +34,7 @@ goto end
 
 @echo on 
 
-"C:\IAR_for_ARM\common\bin\cspybat" -f "D:\Gentlun\OLD_DSN\SHEDULE1_2 for Cpp\Project\settings\schedule.Debug.general.xcl" "--debug_file=%1" --backend -f "D:\Gentlun\OLD_DSN\SHEDULE1_2 for Cpp\Project\settings\schedule.Debug.driver.xcl" 
+"C:\IAR_for_ARM\common\bin\cspybat" -f "D:\Gentlun\OLD_DSN\SHEDULE1_2-for-Cpp\Project\settings\schedule.Debug.general.xcl" "--debug_file=%1" --backend -f "D:\Gentlun\OLD_DSN\SHEDULE1_2-for-Cpp\Project\settings\schedule.Debug.driver.xcl" 
 
 @echo off 
 :end
