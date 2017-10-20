@@ -951,10 +951,6 @@
           <file> 182</file>
         </tool>
         <tool>
-          <name>ICCARM</name>
-          <file> 35</file>
-        </tool>
-        <tool>
           <name>__cstat</name>
           <file> 16</file>
         </tool>
@@ -976,10 +972,6 @@
         <tool>
           <name>BICOMP</name>
           <file> 187</file>
-        </tool>
-        <tool>
-          <name>ICCARM</name>
-          <file> 62</file>
         </tool>
         <tool>
           <name>__cstat</name>
@@ -1005,10 +997,6 @@
           <file> 108</file>
         </tool>
         <tool>
-          <name>ICCARM</name>
-          <file> 64</file>
-        </tool>
-        <tool>
           <name>__cstat</name>
           <file> 38</file>
         </tool>
@@ -1030,10 +1018,6 @@
         <tool>
           <name>BICOMP</name>
           <file> 192</file>
-        </tool>
-        <tool>
-          <name>ICCARM</name>
-          <file> 49</file>
         </tool>
         <tool>
           <name>__cstat</name>
@@ -1076,10 +1060,6 @@
           <file> 45</file>
         </tool>
         <tool>
-          <name>ICCARM</name>
-          <file> 15</file>
-        </tool>
-        <tool>
           <name>__cstat</name>
           <file> 33</file>
         </tool>
@@ -1101,10 +1081,6 @@
         <tool>
           <name>BICOMP</name>
           <file> 183</file>
-        </tool>
-        <tool>
-          <name>ICCARM</name>
-          <file> 54</file>
         </tool>
         <tool>
           <name>__cstat</name>
@@ -1130,10 +1106,6 @@
           <file> 70</file>
         </tool>
         <tool>
-          <name>ICCARM</name>
-          <file> 98</file>
-        </tool>
-        <tool>
           <name>__cstat</name>
           <file> 94</file>
         </tool>
@@ -1155,10 +1127,6 @@
         <tool>
           <name>BICOMP</name>
           <file> 17</file>
-        </tool>
-        <tool>
-          <name>ICCARM</name>
-          <file> 56</file>
         </tool>
         <tool>
           <name>__cstat</name>
@@ -1201,10 +1169,6 @@
         <tool>
           <name>BICOMP</name>
           <file> 67</file>
-        </tool>
-        <tool>
-          <name>ICCARM</name>
-          <file> 42</file>
         </tool>
         <tool>
           <name>__cstat</name>
