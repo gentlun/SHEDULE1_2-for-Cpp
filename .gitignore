@@ -30,3 +30,8 @@
 *.exe
 *.out
 *.app
+# Gentlun add below
+Debug
+*.hex
+*.pbi
+*.cout
