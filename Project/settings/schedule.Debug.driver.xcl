@@ -1,0 +1,21 @@
+ -B 
+
+"--endian=little" 
+
+"--cpu=Cortex-M3" 
+
+"--fpu=None" 
+
+"-p" 
+
+"C:\IAR_for_ARM\arm\CONFIG\debugger\ST\STM32F103x8.ddf" 
+
+"--semihosting=none" 
+
+"--device=STM32F103x8" 
+
+"--multicore_nr_of_cores=1" 
+
+
+
+

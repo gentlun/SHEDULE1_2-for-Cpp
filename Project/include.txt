@@ -1,0 +1,10 @@
+$PROJ_DIR$\..\User
+$PROJ_DIR$\..\User\Schedule
+$PROJ_DIR$\..\Libraries\CMSIS
+$PROJ_DIR$\..\Libraries\CMSIS\startup
+$PROJ_DIR$\..\Libraries\STM32F10x_StdPeriph_Driver\inc
+
+
+
+STM32F10X_MD
+USE_STDPERIPH_DRIVER
